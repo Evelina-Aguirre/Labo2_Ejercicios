@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Ejercicio 1\Ejercicio 7\bin\Debug\Ejercicio 7.exe.config
+C:\Users\Usuario\source\repos\Ejercicio 1\Ejercicio 7\bin\Debug\Ejercicio 7.exe
+C:\Users\Usuario\source\repos\Ejercicio 1\Ejercicio 7\bin\Debug\Ejercicio 7.pdb
+C:\Users\Usuario\source\repos\Ejercicio 1\Ejercicio 7\obj\Debug\Ejercicio 7.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio 1\Ejercicio 7\obj\Debug\Ejercicio 7.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio 1\Ejercicio 7\obj\Debug\Ejercicio 7.exe
+C:\Users\Usuario\source\repos\Ejercicio 1\Ejercicio 7\obj\Debug\Ejercicio 7.pdb
+C:\Users\Usuario\source\repos\Guia2c#\Ejercicio 7\bin\Debug\Ejercicio 7.exe.config
+C:\Users\Usuario\source\repos\Guia2c#\Ejercicio 7\bin\Debug\Ejercicio 7.exe
+C:\Users\Usuario\source\repos\Guia2c#\Ejercicio 7\bin\Debug\Ejercicio 7.pdb
+C:\Users\Usuario\source\repos\Guia2c#\Ejercicio 7\obj\Debug\Ejercicio 7.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Guia2c#\Ejercicio 7\obj\Debug\Ejercicio 7.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Guia2c#\Ejercicio 7\obj\Debug\Ejercicio 7.exe
+C:\Users\Usuario\source\repos\Guia2c#\Ejercicio 7\obj\Debug\Ejercicio 7.pdb

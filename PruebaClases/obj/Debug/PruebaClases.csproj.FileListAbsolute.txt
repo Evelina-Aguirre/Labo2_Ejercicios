@@ -1,0 +1,9 @@
+C:\Users\Usuario\source\repos\Ejercicio 1\PruebaClases\bin\Debug\PruebaClases.dll
+C:\Users\Usuario\source\repos\Ejercicio 1\PruebaClases\bin\Debug\PruebaClases.pdb
+C:\Users\Usuario\source\repos\Ejercicio 1\PruebaClases\bin\Debug\Entidad.dll
+C:\Users\Usuario\source\repos\Ejercicio 1\PruebaClases\bin\Debug\Entidad.pdb
+C:\Users\Usuario\source\repos\Ejercicio 1\PruebaClases\obj\Debug\PruebaClases.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio 1\PruebaClases\obj\Debug\PruebaClases.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio 1\PruebaClases\obj\Debug\PruebaClases.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Ejercicio 1\PruebaClases\obj\Debug\PruebaClases.dll
+C:\Users\Usuario\source\repos\Ejercicio 1\PruebaClases\obj\Debug\PruebaClases.pdb
