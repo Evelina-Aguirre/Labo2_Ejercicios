@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -15,17 +16,16 @@ namespace Ejercicio_9
             int altura;
             string asterisco = "*";
 
-            Console.WriteLine("Ingrese altura: ");
-            while (int.TryParse(Console.ReadLine(), out altura) == false)
-            {
-                Console.WriteLine("ERROR. Ingrese altura: ");
-            }
+            Console.WriteLine("Ingrese altura :");
+            string input = Console.ReadLine();
+            int.TryParse(input, out altura);
 
-            for (int i = 1; i <= altura; i++)
+            for(int i=1; i<=altura;i++)
             {
-                if (i == 1)
+                if(altura == 1)
                 {
                     Console.WriteLine(asterisco);
+
                 }
                 else
                 {
