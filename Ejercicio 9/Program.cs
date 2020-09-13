@@ -33,7 +33,6 @@ namespace Ejercicio_9
                     Console.WriteLine(asterisco);
                 }
             }
-
             Console.ReadKey();
         }
     }
