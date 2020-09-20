@@ -16,7 +16,7 @@ namespace Ejercicio_6
             int anioDos;
 
             //Ingreso de datos
-            Console.WriteLine("Ingrese el rando de añis a calcular.");
+            Console.WriteLine("Ingrese el rando de años a calcular.");
             Console.ReadKey();
             Console.WriteLine("Año uno:");
             string input1 = Console.ReadLine();
@@ -30,9 +30,9 @@ namespace Ejercicio_6
             {
                 if((i % 100 == 0) &&(i % 400 != 0))
                 {
-                    //Si es multiplo de 100 NO ES bisiesto, pero si es mult. de 100 y de 400 a la vez, SI LO ES..- 
+                    //Si es multiplo de 100 NO ES bisiesto, pero si es mult. de 100 y de 400 a la vez, SI ..- 
                 }
-                else if(i % 4 == 0)//SI ES MULTIPLO DE 4 SI LO ES..
+                else if(i % 4 == 0)//Si es multiplo de 4 es bisiesto..
                 {
                     Console.WriteLine("El Año {0} es bisciesto", i);
                 }    
