@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Ejercicios cs\Ejercicio_13\bin\Debug\Ejercicio_13.exe.config
+C:\Users\Usuario\source\repos\Ejercicios cs\Ejercicio_13\bin\Debug\Ejercicio_13.exe
+C:\Users\Usuario\source\repos\Ejercicios cs\Ejercicio_13\bin\Debug\Ejercicio_13.pdb
+C:\Users\Usuario\source\repos\Ejercicios cs\Ejercicio_13\bin\Debug\ValidBinario.dll
+C:\Users\Usuario\source\repos\Ejercicios cs\Ejercicio_13\bin\Debug\ValidBinario.pdb
+C:\Users\Usuario\source\repos\Ejercicios cs\Ejercicio_13\obj\Debug\Ejercicio_13.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicios cs\Ejercicio_13\obj\Debug\Ejercicio_13.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicios cs\Ejercicio_13\obj\Debug\Ejercicio_13.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Ejercicios cs\Ejercicio_13\obj\Debug\Ejercicio_13.exe
+C:\Users\Usuario\source\repos\Ejercicios cs\Ejercicio_13\obj\Debug\Ejercicio_13.pdb

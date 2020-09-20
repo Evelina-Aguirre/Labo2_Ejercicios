@@ -11,7 +11,7 @@ namespace Ejercicio_6
         static void Main(string[] args)
         {
             Console.Title = "Ejercicio 6";
-            Console.WriteLine("AÑOS BISCIESTOS \n -------------------\n");
+            Console.WriteLine("AÑOS BISIESTOS \n -------------------\n");
             int anioUno;
             int anioDos;
 
@@ -28,11 +28,11 @@ namespace Ejercicio_6
             //recorro el rango de años
             for (int i = anioUno; i <= anioDos; i++)
             {
-                if((i % 100 == 0) &&(i % 400 != 0))//si es multiplo de 100 pero no de 400 NO ES BISCIESTO
+                if((i % 100 == 0) &&(i % 400 != 0))
                 {
-                    //Si es multiplo de 100 NO ES bisciesto, pero si es mult. de 100 y de 400 a la vez, SI 
+                    //Si es multiplo de 100 NO ES bisiesto, pero si es mult. de 100 y de 400 a la vez, SI LO ES..- 
                 }
-                else if(i % 4 == 0)//SI ES MULTIPLO DE 4 SI LO ES
+                else if(i % 4 == 0)//SI ES MULTIPLO DE 4 SI LO ES..
                 {
                     Console.WriteLine("El Año {0} es bisciesto", i);
                 }    

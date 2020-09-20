@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Ejercicio 11",
+    "\\Ejercicio 11\\bin\\Debug",
+    "\\Ejercicio 11\\bin\\Release",
+    "\\Validaciones"
   ],
-  "SelectedNode": "\\Ejercicio 9",
+  "SelectedNode": "\\Ejercicios cs.sln",
   "PreviewInSolutionExplorer": false
 }

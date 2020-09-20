@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\Ejercicios cs\ValidarRespuesta\bin\Debug\ValidarRespuesta.dll
+C:\Users\Usuario\source\repos\Ejercicios cs\ValidarRespuesta\bin\Debug\ValidarRespuesta.pdb
+C:\Users\Usuario\source\repos\Ejercicios cs\ValidarRespuesta\obj\Debug\ValidarRespuesta.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicios cs\ValidarRespuesta\obj\Debug\ValidarRespuesta.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicios cs\ValidarRespuesta\obj\Debug\ValidarRespuesta.dll
+C:\Users\Usuario\source\repos\Ejercicios cs\ValidarRespuesta\obj\Debug\ValidarRespuesta.pdb

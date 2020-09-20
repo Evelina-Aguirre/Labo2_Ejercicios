@@ -43,6 +43,8 @@ namespace Ejercicio_2
             Console.WriteLine("Al cubo {0}",cubo);
             Console.ReadKey();
 
+            //No te hago una validación ni que me pagues...nada es el ejercicio 2 banquen. 
+
         }   
     }
 }

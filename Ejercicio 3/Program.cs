@@ -26,7 +26,7 @@ namespace Ejercicio_3
                      if (i % j == 0)
                     {
                         contador++;
-                        if(contador ==3)//Si el contador encuentra más de 2 restos 0, el núm deja de ser mi Primo
+                        if(contador ==3)//Si el contador encuentra más de 2 restos 0, el núm deja de ser mi Primo. Ahora es un tio o algo así.
                         {
                             break;
                         }

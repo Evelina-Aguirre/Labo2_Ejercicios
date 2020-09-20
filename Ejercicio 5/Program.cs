@@ -65,12 +65,12 @@ namespace Ejercicio_5
                 sumaAtras = 0;
                 sumaAdelante = 0;
 
-                // Calculo para atras
+                // Calculo para atrás..(en la vida en general)
                 for (i = 1; i < aumento; i++)
                 {
                     sumaAtras = sumaAtras + i;
                 }
-                //calculo para adelante
+                //calculo para adelante(sometimes)
                 for (j = aumento + 1; j <= sumaAtras; j++)
                 {
                     if ((sumaAdelante == sumaAtras) || (sumaAdelante > sumaAtras))
@@ -83,7 +83,7 @@ namespace Ejercicio_5
                     Console.WriteLine("Es centro numerico: {0}", aumento);
             }
             Console.ReadLine();
-
+            //tasa tasa..
         }
     }
 }

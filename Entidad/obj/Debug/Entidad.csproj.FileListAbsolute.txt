@@ -4,3 +4,7 @@ C:\Users\Usuario\source\repos\Ejercicio 1\Entidad\obj\Debug\Entidad.csprojAssemb
 C:\Users\Usuario\source\repos\Ejercicio 1\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\source\repos\Ejercicio 1\Entidad\obj\Debug\Entidad.dll
 C:\Users\Usuario\source\repos\Ejercicio 1\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Usuario\source\repos\Ejercicios cs\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicios cs\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicios cs\Entidad\obj\Debug\Entidad.dll
+C:\Users\Usuario\source\repos\Ejercicios cs\Entidad\obj\Debug\Entidad.pdb

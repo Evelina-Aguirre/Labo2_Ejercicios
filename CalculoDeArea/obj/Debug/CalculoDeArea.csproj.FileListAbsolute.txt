@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\Ejercicios cs\CalculoDeArea\bin\Debug\CalculoDeArea.dll
+C:\Users\Usuario\source\repos\Ejercicios cs\CalculoDeArea\bin\Debug\CalculoDeArea.pdb
+C:\Users\Usuario\source\repos\Ejercicios cs\CalculoDeArea\obj\Debug\CalculoDeArea.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicios cs\CalculoDeArea\obj\Debug\CalculoDeArea.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicios cs\CalculoDeArea\obj\Debug\CalculoDeArea.dll
+C:\Users\Usuario\source\repos\Ejercicios cs\CalculoDeArea\obj\Debug\CalculoDeArea.pdb

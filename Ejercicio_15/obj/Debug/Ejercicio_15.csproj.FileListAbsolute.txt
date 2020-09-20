@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Ejercicios cs\Ejercicio_15\bin\Debug\Ejercicio_15.exe.config
+C:\Users\Usuario\source\repos\Ejercicios cs\Ejercicio_15\bin\Debug\Ejercicio_15.exe
+C:\Users\Usuario\source\repos\Ejercicios cs\Ejercicio_15\bin\Debug\Ejercicio_15.pdb
+C:\Users\Usuario\source\repos\Ejercicios cs\Ejercicio_15\bin\Debug\Calculadora.dll
+C:\Users\Usuario\source\repos\Ejercicios cs\Ejercicio_15\bin\Debug\Validaciones.dll
+C:\Users\Usuario\source\repos\Ejercicios cs\Ejercicio_15\bin\Debug\ValidarRespuesta.dll
+C:\Users\Usuario\source\repos\Ejercicios cs\Ejercicio_15\bin\Debug\Calculadora.pdb
+C:\Users\Usuario\source\repos\Ejercicios cs\Ejercicio_15\bin\Debug\Validaciones.pdb
+C:\Users\Usuario\source\repos\Ejercicios cs\Ejercicio_15\bin\Debug\ValidarRespuesta.pdb
+C:\Users\Usuario\source\repos\Ejercicios cs\Ejercicio_15\obj\Debug\Ejercicio_15.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicios cs\Ejercicio_15\obj\Debug\Ejercicio_15.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicios cs\Ejercicio_15\obj\Debug\Ejercicio_15.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Ejercicios cs\Ejercicio_15\obj\Debug\Ejercicio_15.exe
+C:\Users\Usuario\source\repos\Ejercicios cs\Ejercicio_15\obj\Debug\Ejercicio_15.pdb
