@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Ejercicios CSharp 2\Ejercicios CSharp 2da parte\bin\Debug\Ejercicios CSharp 2da parte.exe.config
+C:\Users\Usuario\source\repos\Ejercicios CSharp 2\Ejercicios CSharp 2da parte\bin\Debug\Ejercicios CSharp 2da parte.exe
+C:\Users\Usuario\source\repos\Ejercicios CSharp 2\Ejercicios CSharp 2da parte\bin\Debug\Ejercicios CSharp 2da parte.pdb
+C:\Users\Usuario\source\repos\Ejercicios CSharp 2\Ejercicios CSharp 2da parte\obj\Debug\Ejercicios CSharp 2da parte.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicios CSharp 2\Ejercicios CSharp 2da parte\obj\Debug\Ejercicios CSharp 2da parte.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicios CSharp 2\Ejercicios CSharp 2da parte\obj\Debug\Ejercicios CSharp 2da parte.exe
+C:\Users\Usuario\source\repos\Ejercicios CSharp 2\Ejercicios CSharp 2da parte\obj\Debug\Ejercicios CSharp 2da parte.pdb
