@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\AplicacionForm\AplicacionForm\bin\Debug\AplicacionForm.exe.config
+C:\Users\Usuario\source\repos\AplicacionForm\AplicacionForm\bin\Debug\AplicacionForm.exe
+C:\Users\Usuario\source\repos\AplicacionForm\AplicacionForm\bin\Debug\AplicacionForm.pdb
+C:\Users\Usuario\source\repos\AplicacionForm\AplicacionForm\obj\Debug\AplicacionForm.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\AplicacionForm\AplicacionForm\obj\Debug\AplicacionForm.Form1.resources
+C:\Users\Usuario\source\repos\AplicacionForm\AplicacionForm\obj\Debug\AplicacionForm.Properties.Resources.resources
+C:\Users\Usuario\source\repos\AplicacionForm\AplicacionForm\obj\Debug\AplicacionForm.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\AplicacionForm\AplicacionForm\obj\Debug\AplicacionForm.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\AplicacionForm\AplicacionForm\obj\Debug\AplicacionForm.exe
+C:\Users\Usuario\source\repos\AplicacionForm\AplicacionForm\obj\Debug\AplicacionForm.pdb

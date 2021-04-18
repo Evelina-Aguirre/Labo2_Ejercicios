@@ -58,7 +58,9 @@ namespace Ejercicios_CSharp_2da_parte
                 respuesta = Console.ReadLine();
             } while (respuesta == "s");
 
-            
+            Console.ReadKey();
+
+
 
         }
     }

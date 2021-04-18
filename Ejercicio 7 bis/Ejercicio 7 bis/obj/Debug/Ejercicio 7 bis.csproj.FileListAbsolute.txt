@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Ejercicio 7 bis\Ejercicio 7 bis\bin\Debug\Ejercicio 7 bis.exe.config
+C:\Users\Usuario\source\repos\Ejercicio 7 bis\Ejercicio 7 bis\bin\Debug\Ejercicio 7 bis.exe
+C:\Users\Usuario\source\repos\Ejercicio 7 bis\Ejercicio 7 bis\bin\Debug\Ejercicio 7 bis.pdb
+C:\Users\Usuario\source\repos\Ejercicio 7 bis\Ejercicio 7 bis\obj\Debug\Ejercicio 7 bis.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio 7 bis\Ejercicio 7 bis\obj\Debug\Ejercicio 7 bis.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio 7 bis\Ejercicio 7 bis\obj\Debug\Ejercicio 7 bis.exe
+C:\Users\Usuario\source\repos\Ejercicio 7 bis\Ejercicio 7 bis\obj\Debug\Ejercicio 7 bis.pdb

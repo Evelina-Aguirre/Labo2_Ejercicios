@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\2doCuatrimestre\2doCuatrimestre\bin\Debug\2doCuatrimestre.exe.config
+C:\Users\Usuario\source\repos\2doCuatrimestre\2doCuatrimestre\bin\Debug\2doCuatrimestre.exe
+C:\Users\Usuario\source\repos\2doCuatrimestre\2doCuatrimestre\bin\Debug\2doCuatrimestre.pdb
+C:\Users\Usuario\source\repos\2doCuatrimestre\2doCuatrimestre\obj\Debug\2doCuatrimestre.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\2doCuatrimestre\2doCuatrimestre\obj\Debug\2doCuatrimestre.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\2doCuatrimestre\2doCuatrimestre\obj\Debug\2doCuatrimestre.exe
+C:\Users\Usuario\source\repos\2doCuatrimestre\2doCuatrimestre\obj\Debug\2doCuatrimestre.pdb

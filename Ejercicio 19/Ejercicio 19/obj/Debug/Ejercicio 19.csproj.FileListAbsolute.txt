@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Ejercicio 19\Ejercicio 19\bin\Debug\Ejercicio 19.exe.config
+C:\Users\Usuario\source\repos\Ejercicio 19\Ejercicio 19\bin\Debug\Ejercicio 19.exe
+C:\Users\Usuario\source\repos\Ejercicio 19\Ejercicio 19\bin\Debug\Ejercicio 19.pdb
+C:\Users\Usuario\source\repos\Ejercicio 19\Ejercicio 19\obj\Debug\Ejercicio 19.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio 19\Ejercicio 19\obj\Debug\Ejercicio 19.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio 19\Ejercicio 19\obj\Debug\Ejercicio 19.exe
+C:\Users\Usuario\source\repos\Ejercicio 19\Ejercicio 19\obj\Debug\Ejercicio 19.pdb

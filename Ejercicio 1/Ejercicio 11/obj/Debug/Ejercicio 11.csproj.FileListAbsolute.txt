@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Ejercicio 1\Ejercicio 11\obj\Debug\Ejercicio 11.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio 1\Ejercicio 11\obj\Debug\Ejercicio 11.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio 1\Ejercicio 11\bin\Debug\Ejercicio 11.exe.config
+C:\Users\Usuario\source\repos\Ejercicio 1\Ejercicio 11\bin\Debug\Ejercicio 11.exe
+C:\Users\Usuario\source\repos\Ejercicio 1\Ejercicio 11\bin\Debug\Ejercicio 11.pdb
+C:\Users\Usuario\source\repos\Ejercicio 1\Ejercicio 11\bin\Debug\Validacion.dll
+C:\Users\Usuario\source\repos\Ejercicio 1\Ejercicio 11\bin\Debug\Validacion.pdb
+C:\Users\Usuario\source\repos\Ejercicio 1\Ejercicio 11\obj\Debug\Ejercicio 11.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Ejercicio 1\Ejercicio 11\obj\Debug\Ejercicio 11.exe
+C:\Users\Usuario\source\repos\Ejercicio 1\Ejercicio 11\obj\Debug\Ejercicio 11.pdb

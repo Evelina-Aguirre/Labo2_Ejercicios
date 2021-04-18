@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\Cursillo\Cursillo\bin\Debug\netcoreapp3.1\Cursillo.exe
+C:\Users\Usuario\source\repos\Cursillo\Cursillo\bin\Debug\netcoreapp3.1\Cursillo.deps.json
+C:\Users\Usuario\source\repos\Cursillo\Cursillo\bin\Debug\netcoreapp3.1\Cursillo.runtimeconfig.json
+C:\Users\Usuario\source\repos\Cursillo\Cursillo\bin\Debug\netcoreapp3.1\Cursillo.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Cursillo\Cursillo\bin\Debug\netcoreapp3.1\Cursillo.dll
+C:\Users\Usuario\source\repos\Cursillo\Cursillo\bin\Debug\netcoreapp3.1\Cursillo.pdb
+C:\Users\Usuario\source\repos\Cursillo\Cursillo\obj\Debug\netcoreapp3.1\Cursillo.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Cursillo\Cursillo\obj\Debug\netcoreapp3.1\Cursillo.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Cursillo\Cursillo\obj\Debug\netcoreapp3.1\Cursillo.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Cursillo\Cursillo\obj\Debug\netcoreapp3.1\Cursillo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Cursillo\Cursillo\obj\Debug\netcoreapp3.1\Cursillo.dll
+C:\Users\Usuario\source\repos\Cursillo\Cursillo\obj\Debug\netcoreapp3.1\Cursillo.pdb
+C:\Users\Usuario\source\repos\Cursillo\Cursillo\obj\Debug\netcoreapp3.1\Cursillo.genruntimeconfig.cache
